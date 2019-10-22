@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ImageCompressor")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Image Compressor")]
+[assembly: AssemblyDescription("Easy to use image optimizer and compression utility that is powered by NJpegOptim and PNGCompressor.  All rights reserved to their respective owners.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ImageCompressor")]
+[assembly: AssemblyCompany("Ciervo")]
+[assembly: AssemblyProduct("Image Compressor")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

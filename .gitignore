@@ -328,3 +328,8 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+ImageCompressor/ImageSlider/ImageSlider.cs
+ImageCompressor/ImageSlider/ImageSlider.csproj
+ImageCompressor/ImageSlider/ImageSlider.Designer.cs
+ImageCompressor/ImageSlider/ImageSlider.resx
+ImageCompressor/ImageSlider/Properties/AssemblyInfo.cs
