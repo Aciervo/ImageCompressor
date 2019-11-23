@@ -56,7 +56,7 @@
             this.textBoxDescription.ReadOnly = true;
             this.textBoxDescription.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.textBoxDescription.Size = new System.Drawing.Size(411, 99);
-            this.textBoxDescription.TabIndex = 1;
+            this.textBoxDescription.TabIndex = 2;
             // 
             // buttonOK
             // 
@@ -64,7 +64,7 @@
             this.buttonOK.Location = new System.Drawing.Point(348, 248);
             this.buttonOK.Name = "buttonOK";
             this.buttonOK.Size = new System.Drawing.Size(75, 23);
-            this.buttonOK.TabIndex = 2;
+            this.buttonOK.TabIndex = 0;
             this.buttonOK.Text = "OK";
             this.buttonOK.UseVisualStyleBackColor = true;
             // 
@@ -105,7 +105,7 @@
             this.linkLabelHomePage.Location = new System.Drawing.Point(145, 120);
             this.linkLabelHomePage.Name = "linkLabelHomePage";
             this.linkLabelHomePage.Size = new System.Drawing.Size(72, 17);
-            this.linkLabelHomePage.TabIndex = 6;
+            this.linkLabelHomePage.TabIndex = 1;
             this.linkLabelHomePage.TabStop = true;
             this.linkLabelHomePage.Text = "linkLabel1";
             this.linkLabelHomePage.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabelHomePage_LinkClicked);
